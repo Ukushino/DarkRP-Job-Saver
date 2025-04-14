@@ -53,4 +53,4 @@ Only jobs that are still available and valid will be restored.
 ---
 
 ## 📣 Credit
-Developed by Caldryk & ChatGPT, 2024.
+Developed by Caldryk. 2025
