@@ -17,7 +17,7 @@ It provides a smoother roleplay experience and is especially useful on structure
 - Uses JSON (`data/lastjobs.txt`) for persistence
 
 ### 📦 Installation
-1. Drop the `auto_job_restore` folder into:
+1. Drop the `job_saver` folder into:
    ```
    garrysmod/addons/darkrpmodification/lua/darkrp_modules/
    ```
@@ -39,7 +39,7 @@ Idéal pour les serveurs roleplay militaires ou organisés en régiments, ce mod
 - Persistance via fichier JSON (`data/lastjobs.txt`)
 
 ### 📦 Installation
-1. Placez le dossier `auto_job_restore` dans :
+1. Placez le dossier `job_savere` dans :
    ```
    garrysmod/addons/darkrpmodification/lua/darkrp_modules/
    ```
